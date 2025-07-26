@@ -25,6 +25,16 @@
 
 ---
 
+## ⚙️ Tech Stack
+
+- **Framework**: React Native + Expo
+- **Navigation**: React Navigation
+- **State Management**: Redux
+- **Icons**: React Native Expo Vector Icons
+
+---
+
+
 ## 📸 Screenshots
 
 ### Onboarding Screen
@@ -47,15 +57,4 @@
 
 
 
----
-
-## ⚙️ Tech Stack
-
-- **Framework**: React Native + Expo
-- **Navigation**: React Navigation
-- **State Management**: Redux
-- **Styling**: StyleSheet / Tailwind CSS (if used)
-- **Icons**: React Native Expo Vector Icons
-
----
 
