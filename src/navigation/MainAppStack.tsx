@@ -56,7 +56,7 @@ export default function MainAppStack() {
       screenOptions={{
         headerShown: false,
       }}
-      
+      initialRouteName={userData ? "MainAppBottomTabs" : "OnboardingStack"}
     >
       <Stack.Screen name="OnboardingStack" component={OnboardingStack} />
       <Stack.Screen name="Auth" component={SignInScreen} />
