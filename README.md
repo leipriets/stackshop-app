@@ -30,6 +30,7 @@
 - **Framework**: React Native + Expo
 - **Navigation**: React Navigation
 - **State Management**: Redux
+- **Backend & Services**: Firebase (Authentication, Firestore, Storage)  
 - **Icons**: React Native Expo Vector Icons
 
 ---
